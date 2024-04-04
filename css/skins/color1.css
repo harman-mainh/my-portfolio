@@ -1,0 +1,14 @@
+:root{
+    --skin-color:#de5499;
+    --bg-black-900: #000;
+    --bgclr-1: #f2ebe9;
+    --bgclr-2: #eddcd9;
+    --text-black-900: #0000;
+    --text-black-700: #555;
+    --text-black: #264143;
+    --text-black-300: #bbb;
+    --outer-shadow: 3px 3px 3px #eddcd9, -3px -3px 3px #eddcd9;
+    --outer-shadow-0: 0 0 0 #eddcd9, 0 0 0 #eddcd9;
+    --inner-shadow: inset 3px 3px 3px #eddcd9, inset -3px -3px 3px #eddcd9;
+
+}
