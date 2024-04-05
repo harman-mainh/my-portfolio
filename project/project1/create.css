@@ -229,7 +229,7 @@ body{
 	position: absolute;
 	top: 185px;
 	left: 25px;
-	background-image: url('file:///C:/Users/Vijay%20Mainh/Desktop/harman/portfolio/prac/star.png');
+	background-image: url('./star.png');
 	background-size: 15px 15px;
 	width: 15px;
 	height: 15px;
